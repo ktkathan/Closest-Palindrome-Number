@@ -1,0 +1,14 @@
+Test Case No.,Inputs,Expected Results,Actual Results,Status
+1,,Invalid String,Invalid String,Pass
+2,11,9,9,Pass
+3,99,101,101,Pass
+4,123454321,123444321,123444321,Pass
+5,1000,999,999,Pass
+6,1230,1221,1221,Pass
+7,0,0,0,Pass
+8,123,121,121,Pass
+9,212,202,202,Pass
+10,123456,123321,123321,Pass
+11,123321,122221,122221,Pass
+12,10001,9999,9999,Pass
+13,10,9,9,Pass
